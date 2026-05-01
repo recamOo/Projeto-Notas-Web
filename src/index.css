@@ -11,6 +11,7 @@
   --bg-primary: #f5f7fa;
   --bg-secondary: #fff;
   --border-color: #e0e0e0;
+  --code-bg: rgba(102, 126, 234, 0.08);
   --shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   --shadow-hover: 0 8px 25px rgba(0, 0, 0, 0.15);
 
@@ -131,10 +132,6 @@ textarea:focus {
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--text-light);
-}
-  display: inline-flex;
-  border-radius: 4px;
-  color: var(--text-h);
 }
 
 code {
