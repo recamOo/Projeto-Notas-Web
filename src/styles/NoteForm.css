@@ -33,6 +33,8 @@
 .input-titulo:focus,
 .input-texto:focus {
   outline: none;
+  color: #1f2937;
+  caret-color: #1f2937;
   box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3);
   background-color: #f9f9f9;
 }
